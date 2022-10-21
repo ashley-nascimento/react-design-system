@@ -22,6 +22,7 @@ module.exports = {
     "builder": "@storybook/builder-vite"
   },
   "features": {
-    "storyStoreV7": true
+    "storyStoreV7": true,
+    "previewMdx2": true,
   }
 }
